@@ -1,0 +1,6 @@
+{
+  "name": "Simplex Pro: Calculadora Inteligente",
+  "description": "Una calculadora avanzada del Método Simplex que resuelve problemas de programación lineal paso a paso, con soporte para carga de archivos PDF y Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
